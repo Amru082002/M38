@@ -1,10 +1,10 @@
 package demo;
 
-public class Dummy {
+public class Rasbina {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("hello students");
+		System.out.println("hello rasbina");
 	}
 
 }
